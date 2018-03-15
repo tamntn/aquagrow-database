@@ -1,4 +1,4 @@
-# Database Repository for Senior Project - Smart Aquaponics System
+# AquaGrow Database
 
 ## Reference
 
@@ -9,3 +9,7 @@
 * Other tools
     * [Frostline - Dataset/API/Parser GitHub Repo](https://github.com/waldoj/frostline)
     * [Map Files - GitHub Repo](https://github.com/wboykinm/ophz)
+
+### Plants/Herbs Data
+* [Burpee](https://www.burpee.com)
+* [Urban Farmer](https://www.ufseeds.com)
