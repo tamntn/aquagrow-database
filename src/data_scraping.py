@@ -3,12 +3,12 @@ import csv
 from bs4 import BeautifulSoup
 
 uf_homepage = 'https://www.ufseeds.com'
-uf_urls = 'uf_urls.csv'
-uf_data = 'uf_data.csv'
+uf_urls = '../dataset/uf_urls.csv'
+uf_data = '../dataset/uf_data.csv'
 
 burpee_homepage = 'https://www.burpee.com'
-burpee_urls = 'burpee_urls.csv'
-burpee_data = 'burpee_data.csv'
+burpee_urls = '../dataset/burpee_urls.csv'
+burpee_data = '../dataset/burpee_data.csv'
 
 # Create Urban Farmer Product URL File
 # Add Header Row
