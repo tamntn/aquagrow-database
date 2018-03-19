@@ -9,11 +9,11 @@ from bs4 import BeautifulSoup
 
 uf_homepage = 'https://www.ufseeds.com'
 uf_urls = 'dataset/uf_urls.csv'
-uf_data = 'dataset/uf_data.json'
+uf_data = 'dataset/uf_data_raw.json'
 
 burpee_homepage = 'https://www.burpee.com'
 burpee_urls = 'dataset/burpee_urls.csv'
-burpee_data = 'dataset/burpee_data.json'
+burpee_data = 'dataset/burpee_data_raw.json'
 
 
 # Getting a plant's information
