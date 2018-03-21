@@ -1,0 +1,429 @@
+name,ph_range
+Apple,5.0-6.5
+Apricot,6.0-7.0
+Avocado,6.0-7.5
+Banana,5.0-7.0
+Blackberry,5.0-6.0
+Blueberry,4.0-6.0
+Cantaloupe,6.5-7.5
+Cherry,6.0-7.5
+Cranberry,5.5-6.5
+Current: Black,6.0-8.0
+Current: Red,5.5-7.0
+Current: White,6.0-8.0
+Damson,6.0-7.5
+Gooseberry,5.0-6.5
+Grapevine,6.0-7.0
+Grapefruit,6.0-7.5
+Hazelnut,6.0-7.0
+НОР,6.0-7.5
+Huckleberry,4.0-6.0
+Lemon,6.0-7.0
+Lychee,6.0-7.0
+Mango,5.0-6.0
+Melon,5.5-6.5
+Mulberry,6.0-7.5
+Nectarine,6.0-7.5
+Peach,6.0-7.5
+Pear,6.0-7.5
+Pineapple,5.0-6.0
+Plum,6.0-7.5
+Pomegranate,5.5-6.5
+Quince,6.0-7.5
+Raspberry,5.0-7.5
+Rhubarb,5.5-7.0
+Strawberry,5.0-7.5
+Watermelon,5.5-6.5
+Artichoke,6.5-7.5
+Asparagus,6.0-8.0
+Basil,5.5-6.5
+Bean,6.0-7.5
+Beetroot,6.0-7.5
+Broccoli,6.0-7.0
+Brussels Sprouts,6.0-7.5
+Cabbage,6.0-7.5
+Calabrese,6.5-7.5
+Carrot,5.5-7.0
+Cauliflower,5.5-7.5
+Celery,6.0-7.0
+Chicory,5.0-6.5
+Chinese Cabbage,6.0-7.5
+Chives,6.0-7.0
+Corn,5.5-7.0
+Cress,6.0-7.0
+Courgettes,5.5-7.0
+Cucumber Fennel,5.0-6.0
+Garlic,5.5-7.5
+Ginger,6.0-8.0
+Horseradish Kale,6.0-7.5
+Kohlrabi,6.0-7.5
+Leek,6.0-8.0
+Lentil,5.5-7.0
+Lettuce,6.0-7.0
+Marjoram,6.0-8.0
+Marrow,6.0-7.5
+Millet Mint,7.0-8.0
+Mushroom,6.5-7.5
+Mustard,6.0-7.5
+Olive,5.5-6.5
+Onion,6.0-7.0
+Paprika,7.0-8.5
+Parsley,5.0-7.0
+Parsnip,5.5-7.5
+Pea,6.0-7.5
+Peanut,5.0-6.5
+Pecan,4.0-6.0
+Pepper,5.5-7.0
+Peppermint,6.0-7.5
+Pistachio,5.0-6.0
+Potato,4.5-6.0
+Potato - Sweet,5.5-6.0
+Pumpkin,5.5-7.5
+Radish,6.0-7.0
+Rosemary,5.0-6.0
+Sage,5.5-6.5
+Genista,6.5-7.5
+Shallot,5.5-7.0
+Geranium,6.0-8.0
+Sorghum,5.5-7.5
+Gloxinia,5.5-6.5
+Soybean,5.5-6.5
+Grape Ivy,5.0-6.5
+Spearmint,5.5-7.5
+Grape Hyacinth,6.0-7.5
+Spinach,6.0-7.5
+Grevillea,5.5-6.5
+Swede,5.0-7.0
+Gynura,5.5-6.5
+Thyme,5.5-7.0
+Hedera (Ivy),6.0-8.0
+ΤΟΜΑΤΟ,5.5-7.5
+Heliotropium,5.0-6.0
+Turnip,5.5-7.0
+Hens And Chickens,6.0-7.0
+Water Cress,6.0-8.0
+Herringbone Plant,6.0-6.0
+Hibiscus Plant,6.0-8.0
+Abutilon,5.5-6.5
+Hoya,5.0-6.5
+Acorus,5.0-6.5
+Impatiens,5.5-6.5
+Aechmea,5.0-5.5
+Ivy Tree,6.0-7.0
+African Violet,6.0-7.0
+Jacaranda,6.0-7.5
+Aglaonema,5.0-6.0
+Japanese Sedge,6.0-8.0
+Amarylis,5.5-6.5
+Jasminum,5.5-7.0
+Anthurium,5.0-6.0
+Jerusalem Cherry,5.5-6.5
+Aphelandra,5.0-6.0
+Jessamone,5.0-6.0
+Araucaria,5.0-6.0
+Kalanchoe,6.0-7.5
+Asparagus Fern,6.0-8.0
+Kangaroo Thorn,6.0-8.0
+Aspidistra,4.0-5.5
+Kangaroo Vine,5.0-6.5
+Azaela,4.5-6.0
+Lantana,5.5-7.0
+Baby'S Breath,6.0-7.5
+Laurus ( Bay Tree),5.0-6.0
+Baby'S Tears,5.0-6.0
+Lemon Plant,6.0-7.5
+Begonia,5.5-7.0
+Mimosa,5.0-7.0
+Bird Of Paradise,6.0-6.5
+Mind Your Own Business,5.0-5.5
+Bishop'S Cap,5.0-6.0
+Monstera,5.0-6.0
+Black-Eyed Susan,5.5-7.5
+Myrtle,6.0-8.0
+Blood Leaf,5.5-6.5
+Never Never Plant,5.0-6.0
+Bottlebrush,6.0-7.5
+Nicodemia (Indoor Oak),6.0-8.0
+Bougainvillea,5.5-7.5
+Norfolk Island Pine,5.0-6.0
+Boxwood,6.0-7.5
+Oleander,6.0-7.5
+Bromeliads,5.0-7.5
+Oplismenus,5.0-6.0
+Butterfly Flower,6.0-7.5
+Orchid,4.5-5.5
+САСТІ,4.5-6.0
+Oxalis,6.0-8.0
+Calcaolaria,6.0-7.0
+Palms,6.0-7.5
+Caladium,5.0-6.0
+Pandanus,5.0-6.0
+Calla Lily,6.0-7.0
+Peacock Plant,5.0-6.0
+Camelia,4.5-5.5
+Pellionia,5.0-6.0
+Campanula,5.5-6.5
+Peperomia,5.0-6.0
+Capsicum,5.0-6.5
+Philodendron,5.0-6.0
+Cardinal Flower,5.0-6.0
+Pilea,6.0-8.0
+Castor Oil Plant,5.5-6.5
+Plumbago,5.5-6.5
+Cantury Plant,5.0-6.5
+Podacarpus,5.0-6.5
+Chinese Evergreen,5.0-6.0
+Pointsettia,6.0-7.5
+Chinese Primrose,6.0-7.5
+Polyscias,6.0-7.5
+Christmas Cactus,5.0-6.5
+Pothos,5.0-6.0
+Cineraria,5.5-7.0
+Prayer Plant,5.0-6.0
+Clerodendrum,5.0-6.0
+Punica,5.5-6.5
+Clivia,5.5-6.5
+Sanserieria,4.5-7.0
+Cockscomb,6.0-7.0
+Saxifraga,6.0-8.0
+Coffee Plant,5.0-6.0
+Scindapsus,5.0-6.0
+Coleus,6.0-7.0
+Shrimp Plant,6.0-7.0
+Columnea,4.5-5.5
+Spanish Bayonet,6.0-7.5
+Coral Berry,5.5-7.5
+Spider Plant,6.0-7.5
+Crassula,5.0-6.0
+Succulents,5.0-6.5
+Creeping Fig,5.0-6.0
+Synogonium,5.0-6.0
+Croton,5.0-6.0
+Tolmiea,5.0-6.0
+Crown Of Thorns,6.0-7.5
+Tradescantia,5.0-6.0
+Cuphea,6.0-7.5
+Umbrella Tree,5.0-7.5
+Cyclamen,6.0-7.0
+Venus Flytrap,4.0-5.0
+Cyperus,5.0-7.5
+Weeping Fig,5.0-6.0
+Dieffenbachia,5.0-6.0
+Yucca,6.0-7.5
+Dipladenia,6.0-7.5
+Zebrina,5.0-6.0
+Dizgotheca,6.0-7.5
+Dracaena,5.0-6.0
+Easter Lily,6.0-7.0
+Abelia,6.0-8.0
+Elephant'S Ear,5.0-6.0
+Acacia,6.0-8.0
+Episcia,6.0-7.0
+Acanthus,6.0-7.0
+Euonymous,6.0-8.0
+Aconitum,5.0-6.0
+Ferns: Bird'S Nest,5.0-5.5
+Adonis,6.0-8.0
+Ageratum,6.0-7.5
+Ferns: Boston,5.5-6.5
+Ailanthus,6.0-7.5
+Ferns: Button,6.0-8.0
+Ajuga,4.0-6.0
+Ferns: Christmas,6.0-7.5
+Althea,6.0-7.5
+Ferns: Cloak,6.0-7.5
+Alyssum,6.0-7.5
+Ferns: Feather,5.5-6.5
+Amaranthus,6.0-6.5
+Ferns: Hart'S Tongue,7.0-8.0
+Anchusa,6.0-7.5
+Ferns: Holly,4.5-6.0
+Androsace,5.0-6.0
+Ferns: Maidenhair,6.0-8.0
+Anemone,6.0-7.5
+Ferns: Rabbits Foot,6.0-7.5
+Anthyllis,5.0-6.0
+Ferns: Spleenwort,6.0-7.5
+Arbutus,4.0-6.0
+Fig,5.0-6.0
+Arenaria,6.0-8.0
+Fittonia,5.5-6.5
+Aristea,6.0-7.5
+Freesia,6.0-7.5
+Armeria,6.0-7.5
+Gardenia,5.0-6.0
+Arnica,5.0-6.5
+Asperula,6.0-8.0
+Asphodoline,6.0-8.0
+Aster,5.5-7.5
+Aubrita,6.0-7.5
+Azalea,4.5-6.0
+Balloon Flower,6.0-6.5
+Bayberry,4.0-6.0
+Bergenia,6.0-7.5
+Bleeding Heart,6.0-7.5
+Bluebell,6.0-7.6
+Broom,5.0-6.0
+Buddleia,6.0-7.0
+Buphthalum,6.0-8.0
+Butterfly Bush,4.0-6.0
+Calendula,5.5-7.0
+Camassia,6.0-8.0
+Candytuft,6.0-7.5
+Canna,6.0-8.0
+Canterbury Bells,7.0-7.5
+Cardinal Flower,4.0-6.0
+Carnation,6.0-7.5
+Catalpa,6.0-8.0
+Celosia,6.0-7.0
+Centaurea,5.0-6.5
+Cerastium,6.0-7.0
+Chrysanthemum,6.0-7.0
+Cissus,6.0-7.5
+Cistus,6.0-7.5
+Clarkia,6.0-6.5
+Clianthus,6.0-7.5
+Clematis,5.5-7.0
+Colchicum,5.5-6.5
+Columbine,6.0-7.0
+Convolvulus,6.0-8.0
+Coreopsis,5.0-6.0
+Coronilla,6.5-7.5
+Corydalis,6.0-8.0
+Cosmos,5.0-8.0
+Cottoneaster,6.0-8.0
+Crab Apple,6.0-7.5
+Crocus,6.0-8.0
+Cynoglossum,6.0-7.5
+Daffodil,6.0-6.5
+Dahlia,6.0-7.5
+Day Lily,6.0-8.0
+Delphinium,6.0-7.5
+Deutzia,6.0-7.5
+Dianthus,6.0-7.5
+Dogwood,5.0-7.0
+Edelweiss,6.5-7.5
+Elaeagnus,5.0-7.5
+Enkianthus,5.0-6.0
+Erica,4.5-6.0
+Euphorbia,6.0-7.0
+Everlastings,5.0-6.0
+Firethorn,6.0-8.0
+Forget-Me-Nots,6.0-7.0
+Forsythia,6.0-8.0
+Foxglove,6.0-7.5
+Fritillaria,6.0-7.5
+Fuchsia,5.5-7.5
+Gaillardia,6.0-7.5
+Gazania,5.5-7.0
+Gentiana,5.0-7.5
+Geum,6.0-7.5
+Gladioili,6.0-7.0
+Globularia,5.5-7.0
+Godetia,6.0-7.5
+Golden Rod,5.0-7.0
+Gypsophilia,6.0-7.5
+Hawthorn,6.0-7.0
+Heather,4.0-6.0
+Helianthus,5.0-7.0
+Helleborus,6.0-7.5
+Holly,5.0-6.5
+Hollyhock,6.0-7.5
+Honeysuckle,6.0-7.5
+Hyacinth,6.5-7.5
+Hydrangea (Blue),4.0-5.0
+Hydrangea (Pink),6.0-7.0
+Hydrangea (White),6.5-8.0
+Hypericum,5.5-7.0
+Iris,5.0-6.5
+Ivy,6.0-7.5
+Juniper,5.0-6.5
+Kalmia,4.5-5.0
+Kerria,6.0-7.0
+Laburnum,60-70
+Laurel,6.5-7.5
+Lavender,6.5-7.5
+Liatris,5.5-7.5
+Ligustrum,5.0-7.5
+Lilac,6.0-7.5
+Lily Of The Valley,4.5-6.0
+Lithospermum,5.0-6.5
+Lobelia,6.5-7.5
+Lupinus,5.5-7.0
+Magnolia,5.0-6.0
+Mahonia,6.0-7.0
+Marigold,5.5-7.0
+Molinia,4.0-5.0
+Moraea,5.5-6.5
+Morning Glory,6.0-7.5
+Moss,6.0-8.0
+"Moss, Sphagnum",3.5-5.0
+Myosotis,6.0-7.0
+Narcissus,6.0-8.5
+Nasturtium,5.5-7.5
+Nicotiana,5.5-6.5
+Pachysandra,5.0-8.0
+Paeonia,6.0-7.5
+Pansy,5.5-7.0
+Passion Flower,6.0-8.0
+Pasque Flower,5.0-6.0
+Paulownia,6.0-8.0
+Penstemon,5.507.0
+Periwinkle,6.0-7.5
+Petunia,6.0-7.5
+Pinks,6.0-7.5
+Polygonum,6.0-7.5
+Polyanthus,6.0-7.5
+Poppy,6.0-7.5
+Portulaca,5.5-7.5
+Primrose,5.5-6.5
+Primula,6.0-7.5
+Privet,5.0-7.5
+Prunella,6.0-7.5
+Prunus,6.5-7.5
+Pyrethrum,6.0-7.5
+Red Hot Poker,6.0-7.5
+Rhododendren,4.5-6.0
+Roses: Hybrid Tea,5.5-7.0
+Roses: Climbing,6.0-7.0
+Roses: Rambling,5.5-7.0
+Salvia,6.0-7.5
+Scabiosa,5.0-7.5
+Sedum,6.0-7.5
+Snapdragon,5.5-7.0
+Snowdrop,6.0-8.0
+Soapwort,6.0-7.5
+Speedwell,5.5-6.5
+Spiraea,6.0-7.5
+Spruce,4.0-5.0
+Stock,6.0-7.5
+Stonecrop,6.5-7.5
+Sumack,5.0-6.5
+Sunflower,5.0-7.0
+Sweet Pea,6.0-7.5
+Sweet William,6.0-7.5
+Tamarix,6.5-8.0
+Trillium,5.0-6.5
+Tulip,6.0-7.0
+Vibernum,5.0-7.5
+Viola,5.5-6.5
+Virginia Creeper,5.0-7.5
+Wallflower,5.5-7.5
+Water Lily,5.5-6.5
+Weigelia,6.0-7.5
+Wistaria,6.0-8.0
+Zinnia,5.5-7.5
+ВАНАТ,6.5-7.5
+Bent,5.5-6.5
+Bermuda,6.0-7.0
+Canada Blue,4.5-6.4
+Clover,6.0-7.0
+Kentucky Blue,6.0-7.5
+Meadow,6.0-7.5
+Pampas,6.0-8.0
+Red Top,6.0-6.5
+Rye,6.0-7.0
+St. Augustine,6.5-7.5
+Tall Fescue,6.0-7.0
+Velvet Bent,5.0-6.0
+Zoysia,6.0-7.0
