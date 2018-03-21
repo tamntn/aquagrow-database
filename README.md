@@ -13,3 +13,11 @@
 ### Plants/Herbs Data
 * [Burpee](https://www.burpee.com)
 * [Urban Farmer](https://www.ufseeds.com)
+
+### pH Level References
+* [Plant pH Reference List](https://www.planetnatural.com/wp-content/uploads/ph-preference-list.pdf)
+* Farm Homestead List of References:
+   * [Vegetables](https://farmhomestead.com/soil-ph-preferences-garden-vegetables/)
+   * [Shrubs](https://farmhomestead.com/soil-ph-preferences-shrubs/)
+   * [Potted Plants](https://farmhomestead.com/soil-ph-preferences-potted-plants/)
+   * [Trees](https://farmhomestead.com/soil-ph-preferences-trees/)
